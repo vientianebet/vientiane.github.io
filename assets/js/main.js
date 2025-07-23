@@ -2,7 +2,8 @@ async function checkApisAndRedirect() {
   const apiEndpoints = [
     "https://vientiane.la.ddns.me/api",
     "https://vientiane.laos.ddns.net/api",
-    "https://vientiane.la2.zapto.org/api"
+    "https://vientiane.la2.zapto.org/api",
+    `https://vientiane.vp.read-books.org/api`
   ];
 
   // สร้าง Promise สำหรับแต่ละ API
