@@ -7,6 +7,7 @@ async function checkApisAndRedirect() {
     `https://vientiane.lnw.sytes.net/api`,
     `https://vientiane.lnw.workisboring.com/api`,
     `https://vientiane.lnw2.serveblog.net/api`,
+    `https://vientiane.go.viperx.me/api`,
   ];
 
   // สร้าง Promise สำหรับแต่ละ API
